@@ -1,2 +1,2 @@
-# First-counter-styledComponets
+# First-counter
 Created with CodeSandbox
